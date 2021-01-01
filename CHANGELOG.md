@@ -13,6 +13,7 @@
 - Fixed Sentry deployment recipe, updated to work with latest deployer/deployer
 - Added check in NPM recipe to check if `package.json` has changed before running `npm install`
 - Added optional version prefix to Sentry recipe
+- Added Chatwork recipe
 
 ### Fixed
 - Fixed rabbit recipe (#244)
